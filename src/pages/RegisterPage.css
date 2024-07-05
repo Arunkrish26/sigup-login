@@ -1,11 +1,8 @@
-body {
-  background-color: #1f1e1e;
-}
-
 .register-block {
   float: left;
   width: 100%;
   padding: 50px 0;
+  margin-top: 50px;
 }
 
 .container {
@@ -39,9 +36,4 @@ body {
   background: #0069c0;
   color: #fff;
   font-weight: 600;
-}
-.navbar {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
 }

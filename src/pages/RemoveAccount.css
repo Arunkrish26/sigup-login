@@ -1,0 +1,50 @@
+.RemoveAccount {
+  max-height: 100vh;
+  margin-top: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.DeleteAccount {
+  background: #d3d3d3;
+  border-radius: 10px;
+  width: 30%;
+  height: 40%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 100px 20px;
+}
+.input-group {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 5px;
+}
+.input-group input {
+  padding: 5px 10px;
+  width: 100%;
+}
+.input-section {
+  margin-top: 30px;
+}
+.btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 30px;
+}
+button {
+  border: none;
+  outline: none;
+  padding: 10px;
+  background-color: red;
+  color: white;
+  border-radius: 10px;
+}
+button:hover {
+  background-color: rgb(213, 17, 17);
+}
